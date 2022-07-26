@@ -902,23 +902,17 @@ footer img {
 }
 
 .aboutusimg{
-    background: -webkit-linear-gradient( rgba(255, 255, 255, 0.2), rgba(255, 255, 255, .8)), url("https://lh4.googleusercontent.com/hzJd33-tPWbfxeFRzY9RQ8v2mCmwVvFlsU-vFODA1_2nzU9YAnkPOX9dfeB7W5_NoglE-xYiVAXgbUV7Tgj0GVkxF3BN-DBQ4m8kucB340XOJj6pRvfX_osDlhndb6rbgPxIt3vpz81aKLZHP0eZsA");
-    background: rgba(255, 255, 255, 0.2), rgba(255, 255, 255, .8), url("https://lh4.googleusercontent.com/hzJd33-tPWbfxeFRzY9RQ8v2mCmwVvFlsU-vFODA1_2nzU9YAnkPOX9dfeB7W5_NoglE-xYiVAXgbUV7Tgj0GVkxF3BN-DBQ4m8kucB340XOJj6pRvfX_osDlhndb6rbgPxIt3vpz81aKLZHP0eZsA");
+    background: -webkit-linear-gradient( rgba(255, 255, 255, 0.2), rgba(255, 255, 255, .8)), url("../img/backgrounds/aboutus.png");
+    background: rgba(255, 255, 255, 0.2), rgba(255, 255, 255, .8), url("../img/backgrounds/aboutus.png");
     background-size: cover;
     background-position: bottom;
 }
 
 .contactimg{
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("https://lh3.googleusercontent.com/AbepmwWwxgG_jr9eexjrwDvKuwRIBw9L8BuKVm2yRPFe_eGprQIYHIXmLsHFrQC-zJHgluwU0PAFUIXQGLN_3MK8jSp8Dbw2Kkp_tPzQZPVUA1-g0ZHuymtwBB__poMLC8VbVBUplCnocpCwKoM9tw");
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("https://lh3.googleusercontent.com/AbepmwWwxgG_jr9eexjrwDvKuwRIBw9L8BuKVm2yRPFe_eGprQIYHIXmLsHFrQC-zJHgluwU0PAFUIXQGLN_3MK8jSp8Dbw2Kkp_tPzQZPVUA1-g0ZHuymtwBB__poMLC8VbVBUplCnocpCwKoM9tw");
+    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("../img/backgrounds/contactback.png");
+    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("../img/backgrounds/contactback.png");
     background-size: cover;
     background-position: center;    
-}
-
-.proimg{
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("https://lh3.googleusercontent.com/SANfSg9w4W3w61O9ItyeVrl6cdF-41F0cU-G184n-MRyZWLCZiL9SH6qXYdEj8FNL4ABzPf_HQMxYJRyJFqgq_fLGa57adaDihPKNeibeYla-wFUfDdEcrvRCxxn6__u751ukatDDB-BRKR-sOpFcA");
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("https://lh3.googleusercontent.com/SANfSg9w4W3w61O9ItyeVrl6cdF-41F0cU-G184n-MRyZWLCZiL9SH6qXYdEj8FNL4ABzPf_HQMxYJRyJFqgq_fLGa57adaDihPKNeibeYla-wFUfDdEcrvRCxxn6__u751ukatDDB-BRKR-sOpFcA");
-    background-size: cover;
 }
 
 .top-bar h1 {
